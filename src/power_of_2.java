@@ -13,3 +13,4 @@ public class power_of_2 {
         System.out.println("Power = " + result);
     }
 }
+
